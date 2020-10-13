@@ -5,8 +5,10 @@
 
 ## 中文博客
 - [伪造电子邮件以及制造电子邮件炸弹的攻防探讨 - freebuf](https://www.freebuf.com/sectool/184555.html)
+- [强推360-邮件伪造组合拳](https://www.anquanke.com/post/id/218889)
 
 ## 英文博客
+- https://www.usenix.org/system/files/sec20fall_chen-jianjun_prepub_0.pdf
 
 
 ## 论文
